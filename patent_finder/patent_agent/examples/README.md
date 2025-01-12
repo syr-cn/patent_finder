@@ -1,0 +1,1 @@
+This folder contains some examples of full-text patent extracted from source

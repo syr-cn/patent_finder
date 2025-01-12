@@ -1,0 +1,171 @@
+Claims (29)
+-----------
+
+What is claimed is:
+ 
+1. A compound of Formula IIa:
+
+[![Figure US11629136-20230418-C00070](https://patentimages.storage.googleapis.com/30/c8/5d/2557c31c6c0fea/US11629136-20230418-C00070.png)](https://patentimages.storage.googleapis.com/30/c8/5d/2557c31c6c0fea/US11629136-20230418-C00070.png)
+
+or a pharmaceutically acceptable salt thereof, wherein:
+Q is -Cy, —C1-4 alkyl-Cy, —CF3, or C1-4 alkyl-CF3;
+R1 is H;
+R2 is H or C1-4 alkyl;
+R4 and R4a are each independently selected from H, halo, and C1-4 alkyl;
+each R5 is independently selected from halo and C1-4 alkyl, wherein R5 is attached to a carbon atom;
+R6 and R7 are each independently selected from H, —ORa, —NRcRd, C1-4 alkyl, and C1-4 haloalkyl;
+Cy is selected from C6-10 aryl, C3-7cycloalkyl, 5-6 membered heteroaryl, and 4-7 membered heterocycloalkyl, each optionally substituted by 1, 2, 3, 4, or 5 RCy substituents independently selected from halo, C1-4 alkyl, C1-4 haloalkyl, CN, NO2, ORa, SRa, C(O)Rb, C(O)NRcRd, C(O)ORa, OC(O)Rb, OC(O)NRcRd, NRcRd, NRcC(O)Rb, NRcC(O)ORa, NRcC(O)NRcRd, C(═NRe)Rb, C(═NRe)NRcRd, NRcC(═NRe)NRcRd, NRcS(O)Rb, NRcS(O)2Rb, NRcS(O)2NRcRd, S(O)Rb, S(O)NRcRd, S(O)2Rb, and S(O)2NRcRd;
+or two adjacent RCy substituents together with the atoms to which they are attached form a fused phenyl, C3-7 cycloalkyl, 5-6 membered heteroaryl, or 4-7 membered heterocycloalkyl ring, each optionally substituted by 1, 2, 3, 4, or 5 substituents independently selected from halo, C1-4 alkyl, C1-4 haloalkyl, CN, NO2, ORa, SRa, C(O)Rb, C(O)NRcRd, C(O)ORa, OC(O)Rb, OC(O)NRcRd, NRcRd, NRcC(O)Rb, NRcC(O)ORa, NRcC(O)NRcRd, C(═NRe)Rb, C(═NRe)NRcRd, NRcC(═NRe)NRcRd, NRcS(O)Rb, NRcS(O)2Rb, NRcS(O)2NRcRd, S(O)Rb, S(O)NRcRd, S(O)2Rb, and S(O)2NRcRd;
+each Ra, Rb, Rc, and Rd is independently selected from H, C1-4 alkyl, and C1-4 haloalkyl, wherein said C1-4 alkyl is optionally substituted with 1, 2, or 3 substituents independently selected from OH, CN, amino, halo, C1-4alkyl, C1-4alkoxy, C1-4 haloalkyl, and C1-4 haloalkoxy;
+each Re is independently selected from H, C1-4alkyl, and CN;
+n is 0, 1, or 2; and
+m is 1 or 2.
+
+2. The compound of claim 1, or a pharmaceutically acceptable salt thereof, wherein R2 is H.
+
+3. The compound of claim 2, or a pharmaceutically acceptable salt thereof, wherein R4 is H.
+
+4. The compound of claim 3, or a pharmaceutically acceptable salt thereof, wherein R4a is H.
+
+5. The compound of claim 4, or a pharmaceutically acceptable salt thereof, wherein R6 and R7 are each independently selected from H and OH.
+
+6. The compound of claim 5, or a pharmaceutically acceptable salt thereof, wherein at least one of R6 and R7 is H.
+
+7. The compound of claim 6, or a pharmaceutically acceptable salt thereof, wherein both R6 and R7 are H.
+
+8. The compound of claim 6, or a pharmaceutically acceptable salt thereof, wherein R6 is OH and R7 is H.
+
+9. The compound of claim 6, or a pharmaceutically acceptable salt thereof, wherein Q is —CF3.
+
+10. The compound of claim 6, or a pharmaceutically acceptable salt thereof, wherein Q is -Cy.
+
+11. The compound of claim 10, or a pharmaceutically acceptable salt thereof, wherein Cy is selected from C6-10 aryl and 5-6 membered heteroaryl, each optionally substituted by 1, 2, 3, 4, or 5 RCy substituents independently selected from halo, C1-4 alkyl, C1-4 haloalkyl, CN, NO2, ORa, SRa, C(O)Rb, C(O)NRcRd, C(O)ORa, OC(O)Rb, OC(O)NRcRd, NRcRd, NRcC(O)Rb, NRcC(O)ORa, NRcC(O)NRcRd, C(═NRe)Rb, C(═NRe)NRcRd, NRcC(═NRe)NRcRd, NRcS(O)Rb, NRcS(O)2Rb, NRcS(O)2NRcRd, S(O)Rb, S(O)NRcRd, S(O)2Rb, and S(O)2NRcRd.
+
+12. The compound of claim 11, or a pharmaceutically acceptable salt thereof, wherein Cy is a 5-6 membered heteroaryl optionally substituted by 1, 2, 3, or 4 RCy substituents independently selected from halo, C1-4 alkyl, C1-4 haloalkyl, CN, NO2, ORa, SRa, C(O)Rb, C(O)NRcRd, C(O)ORa, OC(O)Rb, OC(O)NRcRd, NRcRd, NRcC(O)Rb, NRcC(O)ORa, NRcC(O)NRcRd, C(═NRe)Rb, C(═NRe)NRcRd, NRcC(═NRe)NRcRd, NRcS(O)Rb, NRcS(O)2Rb, NRcS(O)2NRcRd, S(O)Rb, S(O)NRcRd, S(O)2Rb, and S(O)2NRcRd.
+
+13. The compound of claim 12, or a pharmaceutically acceptable salt thereof, wherein Cy is thiazoyl optionally substituted by 1 or 2 RCy substituents independently selected from halo, C1-4 alkyl, C1-4 haloalkyl, CN, NO2, ORa, SRa, C(O)Rb, C(O)NRcRd, C(O)ORa, OC(O)Rb, OC(O)NRcRd, NRcRd, NRcC(O)Rb, NRcC(O)ORa, NRcC(O)NRcRd, C(═NRe)Rb, C(═NRe)NRcRd, NRcC(═NRe)NRcRd, NRcS(O)Rb, NRcS(O)2Rb, NRcS(O)2NRcRd, S(O)Rb, S(O)NRcRd, S(O)2Rb, and S(O)2NRcRd.
+
+14. The compound of claim 13, or a pharmaceutically acceptable salt thereof, wherein Cy is
+
+[![Figure US11629136-20230418-C00071](https://patentimages.storage.googleapis.com/1e/e5/ce/7b5c61813c1fab/US11629136-20230418-C00071.png)](https://patentimages.storage.googleapis.com/1e/e5/ce/7b5c61813c1fab/US11629136-20230418-C00071.png)
+
+15. The compound of claim 13, or a pharmaceutically acceptable salt thereof, wherein each RCy substituent is independently selected from halo, C1-4 alkyl, C1-4 haloalkyl, CN, ORa, C(O)Rb, C(O)NRcRd, C(O)ORa, NRcRd, NRcC(O)Rb, NRcS(O)2Rb, S(O)2Rb, and S(O)2NRcRd.
+
+16. The compound of claim 9, or a pharmaceutically acceptable salt thereof, wherein n is 0.
+
+17. The compound of claim 16, or a pharmaceutically acceptable salt thereof, wherein m is 1.
+
+18. A compound selected from:
+4-((2-(2,2,2-Trifluoroethyl)-1H-imidazol-4-yl)methyl)pyridine;
+4-((2-(3,3,3-trifluoropropyl)-1H-imidazol-4-yl)methyl)pyridine;
+2-(4-(Pyridin-4-ylmethyl)-1H-imidazol-2-yl)acetonitrile;
+3-(4-(Pyridin-4-ylmethyl)-1H-imidazol-2-yl)propanenitrile;
+rac-4-(1-(2-(2,2,2-Trifluoroethyl)-1H-imidazol-4-yl)ethyl)pyridine;
+(R)-4-(1-(2-(2,2,2-Trifluoroethyl)-1H-imidazol-4-yl)ethyl)pyridine;
+(S)-4-(1-(2-(2,2,2-Trifluoroethyl)-1H-imidazol-4-yl)ethyl)pyridine;
+5-((4-(Pyridin-4-ylmethyl)-1H-imidazol-2-yl)methyl)thiazole;
+4-((5-(2,2,2-Trifluoroethyl)-1H-1,2,4-triazol-3-yl)methyl)pyridine;
+2-(Pyridin-4-ylmethyl)-4-(2,2,2-trifluoroethyl)thiazole;
+4-(Pyridin-4-ylmethyl)-2-(2,2,2-trifluoroethyl)thiazole;
+rac-4-(1-(5-(2,2,2-trifluoroethyl)-1H-pyrrol-2-yl)ethyl)pyridine;
+(S)-2,2,2-Trifluoro-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-ol;
+(R)-2,2,2-Trifluoro-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-ol;
+2,2,2-Trifluoro-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-one;
+(E/Z)-2,2,2-Trifluoro-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-one oxime;
+4-((5-Methyl-2-(2,2,2-trifluoroethyl)-1H-imidazol-4-yl)methyl)pyridine;
+(S)-2,2,2-trifluoro-1-(4-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-amine;
+(R)-2,2,2-trifluoro-1-(4-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-amine;
+(S)-2,2,2-Trifluoro-N-methyl-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-amine;
+(R)-2,2,2-Trifluoro-N-methyl-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-amine;
+(S)-2,2,2-Trifluoro-N,N-dimethyl-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-amine;
+(R)-2,2,2-Trifluoro-N,N-dimethyl-1-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)ethan-1-amine;
+(E/Z)-2, 2, 2-Trifluoro-1-(4-(pyridin-4-ylmethyl)thiazol-2-yl) ethan-1-one oxime;
+(R)-2,2,2-Trifluoro-1-(5-(pyridin-4-ylmethyl)thiazol-2-yl)ethan-1-amine;
+(S)-2,2,2-Trifluoro-1-(5-(pyridin-4-ylmethyl)thiazol-2-yl)ethan-1-amine;
+(S)-(4-(Pyridin-4-ylmethyl)-1H-imidazol-2-yl)(thiazol-5-yl)methanol;
+(R)-(4-(Pyridin-4-ylmethyl)-1H-imidazol-2-yl)(thiazol-5-yl)methanol;
+(5-((3-Methylpyridin-4-yl)methyl)-1H-imidazol-2-yl)(thiazol-5-yl)methanol;
+3,5-Dichloro-4-((2-(2,2,2-trifluoroethyl)-1H-imidazol-5-yl)methyl)pyridine;
+1-(4-((3-Chloropyridin-4-yl)methyl)-1H-imidazol-2-yl)-2,2,2-trifluoroethan-1-ol;
+(S)-2,2,2-trifluoro-1-(4-((S)-1-(pyridin-4-yl)ethyl)-1H-imidazol-2-yl)ethan-1-ol;
+(R)-2,2,2-trifluoro-1-(4-((S)-1-(pyridin-4-yl)ethyl)-1H-imidazol-2-yl)ethan-1-ol;
+(S)-2,2,2-trifluoro-1-(4-((R)-1-(pyridin-4-yl)ethyl)-1H-imidazol-2-yl)ethan-1-ol;
+(R)-2,2,2-trifluoro-1-(4-((R)-1-(pyridin-4-yl)ethyl)-1H-imidazol-2-yl)ethan-1-ol;
+3-Methyl-4-((2-(2,2,2-trifluoroethyl)-1H-imidazol-4-yl)methyl)pyridine;
+(R)-2,2,2-Trifluoro-1-(4-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)-1-(thiazol-5-yl)ethan-1-ol;
+(S)-2,2,2-Trifluoro-1-(4-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)-1-(thiazol-5-yl)ethan-1-ol;
+3-Chloro-4-((2-(2,2,2-trifluoroethyl)-1H-imidazol-4-yl)methyl)pyridine;
+2-Chloro-4-((2-(2,2,2-trifluoroethyl)-1H-imidazol-5-yl)methyl)pyridine;
+2-Fluoro-4-((2-(2, 2, 2-trifluoroethyl)-3H-imidazol-4-yl)methyl)pyridine;
+(S)-(5-((3-Methylpyridin-4-yl)methyl)-1H-imidazol-2-yl)(thiazol-5-yl)methanol;
+(R)-(5-((3-Methylpyridin-4-yl)methyl)-1H-imidazol-2-yl)(thiazol-5-yl)methanol;
+(R)-(5-(Pyridin-4-ylmethyl)-1H-imidazol-2-yl)(thiazol-2-yl)methanol;
+(S)-(5-(Pyridin-4-ylmethyl)-1H-imidazol-2-yl)(thiazol-2-yl)methanol;
+(R)-1,1,1-Trifluoro-2-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)propan-2-ol;
+(S)-1,1,1-Trifluoro-2-(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)propan-2-ol;
+(S)-4-((2-(2,2,2-trifluoro-1-methoxyethyl)-1H-imidazol-5-yl)methyl)pyridine;
+(R)-4-((2-(2,2,2-trifluoro-1-methoxyethyl)-1H-imidazol-5-yl)methyl)pyridine;
+(R)-2,2,2-Trifluoro-1-(5-((2-fluoropyridin-4-yl)methyl)-1H-imidazol-2-yl)ethan-1-ol;
+(S)-2,2,2-Trifluoro-1-(5-((2-fluoropyridin-4-yl)methyl)-1H-imidazol-2-yl)ethan-1-ol;
+Pyridin-2-yl(5-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)methanol;
+3-Fluoro-4-((2-(2,2,2-trifluoroethyl)-1H-imidazol-4-yl)methyl)pyridine;
+(S)-2,2,2-Trifluoro-1-(4-((3-methylpyridin-4-yl)methyl)-1H-imidazol-2-yl)ethan-1-ol;
+(R)-2,2,2-Trifluoro-1-(4-((3-methylpyridin-4-yl)methyl)-1H-imidazol-2-yl)ethan-1-ol;
+(S)-2,2,2-Trifluoro-1-(4-((3-fluoropyridin-4-yl)methyl)-1H-imidazol-2-yl)ethan-1-ol;
+(R)-2,2,2-Trifluoro-1-(4-((3-fluoropyridin-4-yl)methyl)-1H-imidazol-2-yl)ethan-1-ol;
+1,1,1,3,3,3-Hexafluoro-2-(4-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)propan-2-ol; and
+1,1,1-Trifluoro-2-(4-(pyridin-4-ylmethyl)-1H-imidazol-2-yl)propan-2-ol
+
+or a pharmaceutically acceptable salt of any of the aforementioned.
+
+19. A pharmaceutical composition comprising at least one pharmaceutically acceptable carrier and a compound of claim 1, or a pharmaceutically acceptable salt thereof.
+
+20. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00072](https://patentimages.storage.googleapis.com/dd/c1/d6/9e09a10597f765/US11629136-20230418-C00072.png)](https://patentimages.storage.googleapis.com/dd/c1/d6/9e09a10597f765/US11629136-20230418-C00072.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+21. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00073](https://patentimages.storage.googleapis.com/4d/39/55/51bfe4892d95b8/US11629136-20230418-C00073.png)](https://patentimages.storage.googleapis.com/4d/39/55/51bfe4892d95b8/US11629136-20230418-C00073.png)
+
+22. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00074](https://patentimages.storage.googleapis.com/29/94/be/83c93021430069/US11629136-20230418-C00074.png)](https://patentimages.storage.googleapis.com/29/94/be/83c93021430069/US11629136-20230418-C00074.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+23. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00075](https://patentimages.storage.googleapis.com/a9/13/ef/bf8e3f6d007116/US11629136-20230418-C00075.png)](https://patentimages.storage.googleapis.com/a9/13/ef/bf8e3f6d007116/US11629136-20230418-C00075.png)
+
+24. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00076](https://patentimages.storage.googleapis.com/85/ca/fd/ef8d6a6b065e89/US11629136-20230418-C00076.png)](https://patentimages.storage.googleapis.com/85/ca/fd/ef8d6a6b065e89/US11629136-20230418-C00076.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+25. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00077](https://patentimages.storage.googleapis.com/29/81/4d/9bba0fa53a83f0/US11629136-20230418-C00077.png)](https://patentimages.storage.googleapis.com/29/81/4d/9bba0fa53a83f0/US11629136-20230418-C00077.png)
+
+26. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00078](https://patentimages.storage.googleapis.com/b7/1f/39/fc030e2ba3207b/US11629136-20230418-C00078.png)](https://patentimages.storage.googleapis.com/b7/1f/39/fc030e2ba3207b/US11629136-20230418-C00078.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+27. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00079](https://patentimages.storage.googleapis.com/cb/a3/eb/f401347bc87b23/US11629136-20230418-C00079.png)](https://patentimages.storage.googleapis.com/cb/a3/eb/f401347bc87b23/US11629136-20230418-C00079.png)
+
+28. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00080](https://patentimages.storage.googleapis.com/8a/0e/21/257caabb9a9d43/US11629136-20230418-C00080.png)](https://patentimages.storage.googleapis.com/8a/0e/21/257caabb9a9d43/US11629136-20230418-C00080.png)
+
+or a pharmaceutically acceptable salt thereof.
+
+29. The compound of claim 1 that is
+
+[![Figure US11629136-20230418-C00081](https://patentimages.storage.googleapis.com/27/9f/d1/57514af1a1e773/US11629136-20230418-C00081.png)](https://patentimages.storage.googleapis.com/27/9f/d1/57514af1a1e773/US11629136-20230418-C00081.png)
