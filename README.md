@@ -13,11 +13,15 @@ On this benchmark, PatentFinder outperforms baseline methods that rely solely on
 Additionally, PatentFinder autonomously generates detailed and interpretable patent infringement reports, showcasing enhanced accuracy and improved interpretability.
 The high accuracy and interpretability of PatentFinder make it a valuable and reliable tool for automating patent infringement assessments, offering a practical solution for integrating patent protection analysis into the drug discovery pipeline.
 
-<!-- ![framework](./figures/framework.jpg) -->
+![framework](./figures/framework-3d.jpg)
 
 This repository contains the code for the following components of PatentFinder:
-- 
+- The PatentFinder Framework
+- MarkushMatcher
 - MarkushParser
+
+and the following datasets:
+- MolPatent-240
 
 # Requirements
 
